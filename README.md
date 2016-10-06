@@ -36,23 +36,23 @@
      * If you open a processing coding file in “Processing iCompiler” and you can’t see all the text, click “Format”
    * On Android phone, go to the Google Play store and search for APDE or go to this link: https://play.google.com/store/apps/details?id=com.calsignlabs.apde
 * To program in processing on the computer:
- * Set up processing application on Raspberry Pi and MacBook. 
-    * On MacBook (using the Ubuntu operating system): 
-      * Click in the very upper left corner of the screen to go to the menu.
-      * Click “Graphic Design”. 
-      * Click “Processing”.
-      * When the program opens, type ellipse(10,10,20,10);  and run the program by clicking the play button. A new window should appear and a circle should appear in the upper left corner of that new window. You’ve made your first program in Processing!
-   * On Raspberry Pi: 
-     * Click “Menu” 
-     * Click “Programming”
-     * Click “Processing”
-     * When application opens, type:  rect(10,10,30,10);  and run the program by clicking the the play button. A new window should appear and a circle should appear in the upper left corner of that new window. You’ve made your first program in Processing!
+ * Set up processing application on Raspberry Pi and MacBook.
+  * On MacBook (using the Ubuntu operating system):
+   * Click in the very upper left corner of the screen to go to the menu.
+   * Click “Graphic Design”.
+   * Click “Processing”.
+   * When the program opens, type ellipse(10,10,20,10);  and run the program by clicking the play button. A new window should appear and a circle should appear in the upper left corner of that new window. You’ve made your first program in Processing!
+  * On Raspberry Pi:
+   * Click “Menu”
+   * Click “Programming”
+   * Click “Processing”
+   * When application opens, type:  rect(10,10,30,10);  and run the program by clicking the the play button. A new window should appear and a circle should appear in the upper left corner of that new window. You’ve made your first program in Processing!
 
 <h2>Learn the Basics</h2>
 * Do <a href="http://hello.processing.org/">this one-hour tutorial</a>
  * Why is this a good thing to do?
-  * The tutorial outlines the basic words and grammar you need for this new language. When you learned English or a foreign language, you had to start with the basics, right? It is best to rewind the video every time you don’t understand something, and to pause the video and try things out as you go to check your understanding.
-  * Learning to program from online resources like this video is great practice for learning how to learn without an “expert” around. Real-world programmers learn this way, by watching videos, reading instruction manuals, and asking each other questions on this website. 
+   * The tutorial outlines the basic words and grammar you need for this new language. When you learned English or a foreign language, you had to start with the basics, right? It is best to rewind the video every time you don’t understand something, and to pause the video and try things out as you go to check your understanding.
+   * Learning to program from online resources like this video is great practice for learning how to learn without an “expert” around. Real-world programmers learn this way, by watching videos, reading instruction manuals, and asking each other questions on this website.
    * By the way, the link above is a good website to know. If you have questions about almost anything, you can set up an account and ask it there, and someone who knows the answer will get back to you, for free! 
   * Learning how to learn on your own (in Stuart’s opinion) is the most important skill you can have educationally. This is how we are measuring the success of our program this week. 
    * By the way, you might find useful the app used to make that last link.
@@ -81,19 +81,18 @@ Functions are the vocabulary of a programming language. Right now, your vocabula
 Going forward, it’s up to you what you want to learn and what you want to make. This week during classtime we are focusing on making visual art with processing, but you can <a href="https://www.quora.com/What-can-I-do-with-Processing-Programming-language">do all kinds of other things</a> too. Here’s some other things made with processing: <a href="https://en.wikipedia.org/wiki/Digital_art">Url</a> <a href="https://www.linkedin.com/topic/animation-outsourcing">Url</a> <a href="https://processing.org/exhibition/">Url</a>
 
 1. Find <a href="https://color.adobe.com/create/color-wheel/"aesthetically pleasing color combinations</a>. Try different color rules using the “Color Rule” button in the upper lefthand corner of the site. Note the R G B (Red, Green, Blue) values that appear below the colors that you can plug in as inputs to functions like background( ___ , ___, ___ );   stroke(___, ___, ___);   and   fill( __ , __ , __);
- a. Here’s another website that you can play with colors on.
+ *. Here’s another website that you can play with colors on.
 2. Remix an existing project
- a. Maker Mike has made a few graphic art projects he made using Processing publicly available, so click on the name above one of the photos to check out the code for that project. Change the code to remix it, and see what happens.
-Modify the processing.org/gallery programs by clicking on a project, then clicking on “View Sketch Code” or “Download Code.”
-Check out this introduction to the application that you have been using to write processing code on your computer: https://processing.org/reference/environment/
-Check out the eBooks in this folder.  
-“Getting Started with Processing” is a good place to start. 
-If you’re interested in learning more about the Raspberry Pi, check out “Getting Started with the Raspberry Pi.”
-Check out the processing.org/examples page to see how different parts of the Processing programming language to make programs. 
-Share a Processing program you made with anyone in the world connected to the internet. 
-Find out how and where you can print out a piece of art you made in Processing. You may want to use photo paper and a sufficiently large size() so that your image looks smooth when you print it and not blocky and pixelated.
-Draw out what you envision making on paper, and ask about what you might need to learn to make what you’re thinking about.
-
+ * Maker Mike has made a few graphic art projects he made using Processing publicly available, so click on the name above one of the photos to check out the code for that project. Change the code to remix it, and see what happens.
+ * Modify the processing.org/gallery programs by clicking on a project, then clicking on “View Sketch Code” or “Download Code.”
+3. Check out this introduction to the application that you have been using to write processing code on your computer: https://processing.org/reference/environment/
+4. Check out some Books
+ * “Getting Started with Processing” is a good place to start. 
+ * If you’re interested in learning more about the Raspberry Pi, check out “Getting Started with the Raspberry Pi.”
+5. Check out the processing.org/examples page to see how different parts of the Processing programming language to make programs. 
+6. Share a Processing program you made with anyone in the world connected to the internet. 
+7. Find out how and where you can print out a piece of art you made in Processing. You may want to use photo paper and a sufficiently large size() so that your image looks smooth when you print it and not blocky and pixelated.
+8. Draw out what you envision making on paper, and ask about what you might need to learn to make what you’re thinking about.
 
 # After This Week
 
