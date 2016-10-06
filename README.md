@@ -61,7 +61,8 @@
 * Make a piece of art to share with the group. 
  * To save your work: If you add the code below inside the draw () {      }  section of your code, your program will save an image file every time you press “S” or “s”. This is one way to save images that you could then print out and do anything with: hang up at the Y, display at the gallery show you all have coming up, or frame and sell.
 
-```if ( keyPressed ) {
+```
+if ( keyPressed ) {
 
     if ((key == 's') || (key == 'S')){
     
@@ -69,7 +70,8 @@
         
     }
     
-}```
+}
+```
 
 * On Wednesday around 6:40PM, we will showcase one of our projects to the group, explaining to each other how you made what you made, what was difficult, Interesting, what you want to do next, etc…
 
