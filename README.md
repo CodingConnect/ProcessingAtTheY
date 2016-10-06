@@ -61,15 +61,11 @@
 * Make a piece of art to share with the group. 
  * To save your work: If you add the code below inside the draw () {      }  section of your code, your program will save an image file every time you press “S” or “s”. This is one way to save images that you could then print out and do anything with: hang up at the Y, display at the gallery show you all have coming up, or frame and sell.
 
-if ( keyPressed ) {
-
-    if ((key == 's') || (key == 'S')){
-    
-        saveFrame("images/Image-####.png");
-        
+    if ( keyPressed ) {
+        if ((key == 's') || (key == 'S')){
+            saveFrame("images/Image-####.png");
+        }
     }
-    
-}
 
 * On Wednesday around 6:40PM, we will showcase one of our projects to the group, explaining to each other how you made what you made, what was difficult, Interesting, what you want to do next, etc…
 
@@ -78,7 +74,7 @@ Functions are the vocabulary of a programming language. Right now, your vocabula
 * Check out processing.org/reference to
  * Learn more about the functions that you’ve already learned.
  * Learn new functions. 
-   * Example: Here’s a simple function that allows you to writes notes to yourself and other programmers inside the code without confusing the computer.
+   * Example: <a href="https://processing.org/reference/comment.html">Here’s a simple function</a> that allows you to writes notes to yourself and other programmers inside the code without confusing the computer.
 * Start with this code 
 
 <h2>Suggestions for What to Do Next</h2>
