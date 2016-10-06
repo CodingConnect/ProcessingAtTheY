@@ -9,12 +9,9 @@
 <h2>Primary Goal</h2>
 * To learn how to learn independently and from your peers, rather than from us. 
  * We are facilitating the program, but we want to teach as little as possible. Instead, we would like you to teach yourselves by accessing online resources, and to teach each other. 
-  * Why? 
-   * After Friday, you are most likely going to be learning programming by learning on your own or by learning from each other.
-  * So can you ask us questions? 
-   * Sure, but in order to get you all used to not depending on us to learn, we will try as much as possible to ask questions to help you find answers, rather than answering your questions directly. Throughout the week, we will also introduce you to tools and resources that will make it easier to learn online and from each other.
-  * This way of learning sounds hard.
-   * Learning a new language is a lot of work. But if you work through the times when you’re stuck, when you don’t know what to do next, and you work together, depending on each other for learning things you don’t know, you can do it. I (Stuart) have seen this method work in a variety of disciplines… math, science, construction.
+   * Why? After Friday, you are most likely going to be learning programming by learning on your own or by learning from each other.
+   * So can you ask us questions? Sure, but in order to get you all used to not depending on us to learn, we will try as much as possible to ask questions to help you find answers, rather than answering your questions directly. Throughout the week, we will also introduce you to tools and resources that will make it easier to learn online and from each other.
+   * This way of learning sounds hard.  Learning a new language is a lot of work. But if you work through the times when you’re stuck, when you don’t know what to do next, and you work together, depending on each other for learning things you don’t know, you can do it. I (Stuart) have seen this method work in a variety of disciplines… math, science, construction.
 
 <h2>Secondary Goals</h2>
 * To learn some computer programming skills.
@@ -35,21 +32,21 @@
  * Fill out the pre-survey at: http://tinyurl.com/z7gxuqq
 * To program in the processing language anytime, anywhere:
  * Download Processing app on iPhone or Android phone.
-  * On iPhone, go to App Store, search for, and download the app “Processing iCompiler.”     
-   * If you open a processing coding file in “Processing iCompiler” and you can’t see all the text, click “Format”
- * On Android phone, go to the Google Play store and search for APDE or go to this link: https://play.google.com/store/apps/details?id=com.calsignlabs.apde
+   * On iPhone, go to App Store, search for, and download the app “Processing iCompiler.”     
+     * If you open a processing coding file in “Processing iCompiler” and you can’t see all the text, click “Format”
+   * On Android phone, go to the Google Play store and search for APDE or go to this link: https://play.google.com/store/apps/details?id=com.calsignlabs.apde
 * To program in processing on the computer:
  * Set up processing application on Raspberry Pi and MacBook. 
-   * On MacBook (using the Ubuntu operating system): 
-   * Click in the very upper left corner of the screen to go to the menu.
-   * Click “Graphic Design”. 
-   * Click “Processing”.
-   * When the program opens, type ellipse(10,10,20,10);  and run the program by clicking the play button. A new window should appear and a circle should appear in the upper left corner of that new window. You’ve made your first program in Processing!
-  * On Raspberry Pi: 
-   * Click “Menu” 
-   * Click “Programming”
-   * Click “Processing”
-   * When application opens, type:  rect(10,10,30,10);  and run the program by clicking the the play button. A new window should appear and a circle should appear in the upper left corner of that new window. You’ve made your first program in Processing!
+    * On MacBook (using the Ubuntu operating system): 
+      * Click in the very upper left corner of the screen to go to the menu.
+      * Click “Graphic Design”. 
+      * Click “Processing”.
+      * When the program opens, type ellipse(10,10,20,10);  and run the program by clicking the play button. A new window should appear and a circle should appear in the upper left corner of that new window. You’ve made your first program in Processing!
+   * On Raspberry Pi: 
+     * Click “Menu” 
+     * Click “Programming”
+     * Click “Processing”
+     * When application opens, type:  rect(10,10,30,10);  and run the program by clicking the the play button. A new window should appear and a circle should appear in the upper left corner of that new window. You’ve made your first program in Processing!
 
 <h2>Learn the Basics</h2>
 * Do <a href="http://hello.processing.org/">this one-hour tutorial</a>
