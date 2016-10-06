@@ -49,11 +49,11 @@
     * When application opens, type:  rect(10,10,30,10);  and run the program by clicking the the play button. A new window should appear and a circle should appear in the upper left corner of that new window. You’ve made your first program in Processing!
 
 <h2>Learn the Basics</h2>
-* Do <a href="http://hello.processing.org/">this one-hour tutorial</a>
- * Why is this a good thing to do?
-   * The tutorial outlines the basic words and grammar you need for this new language. When you learned English or a foreign language, you had to start with the basics, right? It is best to rewind the video every time you don’t understand something, and to pause the video and try things out as you go to check your understanding.
-   * Learning to program from online resources like this video is great practice for learning how to learn without an “expert” around. Real-world programmers learn this way, by watching videos, reading instruction manuals, and <a href="http://stackoverflow.com/">asking each other questions on this website.  Stack Overflow</a> is a good website to know. If you have questions about almost anything, you can set up an account and ask it there, and someone who knows the answer will get back to you, for free!
-   * Learning how to learn on your own (in Stuart’s opinion) is the most important skill you can have educationally. <a href="https://cl.ly/312d2m2w1k38">This is how we are measuring the success of our program this week</a>.
+Do <a href="http://hello.processing.org/">this one-hour tutorial</a>
+* Why is this a good thing to do?
+ * The tutorial outlines the basic words and grammar you need for this new language. When you learned English or a foreign language, you had to start with the basics, right? It is best to rewind the video every time you don’t understand something, and to pause the video and try things out as you go to check your understanding.
+ * Learning to program from online resources like this video is great practice for learning how to learn without an “expert” around. Real-world programmers learn this way, by watching videos, reading instruction manuals, and <a href="http://stackoverflow.com/">asking each other questions on this website.  Stack Overflow</a> is a good website to know. If you have questions about almost anything, you can set up an account and ask it there, and someone who knows the answer will get back to you, for free!
+ * Learning how to learn on your own (in Stuart’s opinion) is the most important skill you can have educationally. <a href="https://cl.ly/312d2m2w1k38">This is how we are measuring the success of our program this week</a>.
 
 <h2>Make Your First Piece of Art by Coding</h2>
 * Make a piece of art to share with the group. 
