@@ -33,20 +33,20 @@
 * To program in the processing language anytime, anywhere:
  * Download Processing app on iPhone or Android phone.
    * On iPhone, go to App Store, search for, and download the app “Processing iCompiler.”     
-     * If you open a processing coding file in “Processing iCompiler” and you can’t see all the text, click “Format”
+    * If you open a processing coding file in “Processing iCompiler” and you can’t see all the text, click “Format”
    * On Android phone, go to the Google Play store and search for APDE or go to this link: https://play.google.com/store/apps/details?id=com.calsignlabs.apde
 * To program in processing on the computer:
  * Set up processing application on Raspberry Pi and MacBook.
   * On MacBook (using the Ubuntu operating system):
-   * Click in the very upper left corner of the screen to go to the menu.
-   * Click “Graphic Design”.
-   * Click “Processing”.
-   * When the program opens, type ellipse(10,10,20,10);  and run the program by clicking the play button. A new window should appear and a circle should appear in the upper left corner of that new window. You’ve made your first program in Processing!
+    * Click in the very upper left corner of the screen to go to the menu.
+    * Click “Graphic Design”.
+    * Click “Processing”.
+    * When the program opens, type ellipse(10,10,20,10);  and run the program by clicking the play button. A new window should appear and a circle should appear in the upper left corner of that new window. You’ve made your first program in Processing!
   * On Raspberry Pi:
-   * Click “Menu”
-   * Click “Programming”
-   * Click “Processing”
-   * When application opens, type:  rect(10,10,30,10);  and run the program by clicking the the play button. A new window should appear and a circle should appear in the upper left corner of that new window. You’ve made your first program in Processing!
+    * Click “Menu”
+    * Click “Programming”
+    * Click “Processing”
+    * When application opens, type:  rect(10,10,30,10);  and run the program by clicking the the play button. A new window should appear and a circle should appear in the upper left corner of that new window. You’ve made your first program in Processing!
 
 <h2>Learn the Basics</h2>
 * Do <a href="http://hello.processing.org/">this one-hour tutorial</a>
