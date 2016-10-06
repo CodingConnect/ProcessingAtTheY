@@ -52,10 +52,8 @@
 * Do <a href="http://hello.processing.org/">this one-hour tutorial</a>
  * Why is this a good thing to do?
    * The tutorial outlines the basic words and grammar you need for this new language. When you learned English or a foreign language, you had to start with the basics, right? It is best to rewind the video every time you don’t understand something, and to pause the video and try things out as you go to check your understanding.
-   * Learning to program from online resources like this video is great practice for learning how to learn without an “expert” around. Real-world programmers learn this way, by watching videos, reading instruction manuals, and asking each other questions on this website.
-   * By the way, the link above is a good website to know. If you have questions about almost anything, you can set up an account and ask it there, and someone who knows the answer will get back to you, for free! 
-  * Learning how to learn on your own (in Stuart’s opinion) is the most important skill you can have educationally. This is how we are measuring the success of our program this week. 
-   * By the way, you might find useful the app used to make that last link.
+   * Learning to program from online resources like this video is great practice for learning how to learn without an “expert” around. Real-world programmers learn this way, by watching videos, reading instruction manuals, and <a href="http://stackoverflow.com/">asking each other questions on this website.  Stack Overflow</a> is a good website to know. If you have questions about almost anything, you can set up an account and ask it there, and someone who knows the answer will get back to you, for free!
+   * Learning how to learn on your own (in Stuart’s opinion) is the most important skill you can have educationally. <a href="https://cl.ly/312d2m2w1k38">This is how we are measuring the success of our program this week</a>.
 
 <h2>Make Your First Piece of Art by Coding</h2>
 * Make a piece of art to share with the group. 
@@ -76,7 +74,7 @@ if ( keyPressed ) {
 * On Wednesday around 6:40PM, we will showcase one of our projects to the group, explaining to each other how you made what you made, what was difficult, Interesting, what you want to do next, etc…
 
 <h2>Increase Your Processing Vocabulary</h2>
-Functions are the vocabulary of a programming language. Right now, your vocabulary includes rect(), ellipse(), and several other functions. Use the link above to make your vocabulary much larger, so you can tell the computer to do more things.
+Functions are the vocabulary of a programming language. Right now, your vocabulary includes <a href="https://processing.org/reference/rect_.html">rect()</a>, <a href="https://processing.org/reference/ellipse_.html">ellipse()</a>, and several other functions. Use the link above to make your vocabulary much larger, so you can tell the computer to do more things.
 * Check out processing.org/reference to
  * Learn more about the functions that you’ve already learned.
  * Learn new functions. 
@@ -86,10 +84,10 @@ Functions are the vocabulary of a programming language. Right now, your vocabula
 <h2>Suggestions for What to Do Next</h2>
 Going forward, it’s up to you what you want to learn and what you want to make. This week during classtime we are focusing on making visual art with processing, but you can <a href="https://www.quora.com/What-can-I-do-with-Processing-Programming-language">do all kinds of other things</a> too. Here’s some other things made with processing: <a href="https://en.wikipedia.org/wiki/Digital_art">Url</a> <a href="https://www.linkedin.com/topic/animation-outsourcing">Url</a> <a href="https://processing.org/exhibition/">Url</a>
 
-1. Find <a href="https://color.adobe.com/create/color-wheel/"aesthetically pleasing color combinations</a>. Try different color rules using the “Color Rule” button in the upper lefthand corner of the site. Note the R G B (Red, Green, Blue) values that appear below the colors that you can plug in as inputs to functions like background( ___ , ___, ___ );   stroke(___, ___, ___);   and   fill( __ , __ , __);
- *. Here’s another website that you can play with colors on.
+1. Find <a href="https://color.adobe.com/create/color-wheel/">aesthetically pleasing color combinations</a>. Try different color rules using the “Color Rule” button in the upper lefthand corner of the site. Note the R G B (Red, Green, Blue) values that appear below the colors that you can plug in as inputs to functions like <a href="https://processing.org/reference/background_.html">background( ___ , ___, ___ );</a>   <a href="https://processing.org/reference/stroke_.html">stroke(___, ___, ___);</a>   and   <a href="https://processing.org/reference/fill_.html">fill( __ , __ , __);</a>
+ * <a href="https://processing.org/reference/fill_.html">Here’s another website that you can play with colors on.</a>
 2. Remix an existing project
- * Maker Mike has made a few graphic art projects he made using Processing publicly available, so click on the name above one of the photos to check out the code for that project. Change the code to remix it, and see what happens.
+ * Maker Mike has made <a href="https://github.com/TechnologyClassroom/Processing">a few graphic art projects</a> he made using Processing publicly available, so click on the name above one of the photos to check out the code for that project. Change the code to remix it, and see what happens.
  * Modify the processing.org/gallery programs by clicking on a project, then clicking on “View Sketch Code” or “Download Code.”
 3. Check out this introduction to the application that you have been using to write processing code on your computer: https://processing.org/reference/environment/
 4. Check out some Books
