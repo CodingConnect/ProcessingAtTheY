@@ -77,7 +77,7 @@ Functions are the vocabulary of a programming language. Right now, your vocabula
 * Check out processing.org/reference to
  * Learn more about the functions that you’ve already learned.
  * Learn new functions. 
-  * Example: Here’s a simple function that allows you to writes notes to yourself and other programmers inside the code without confusing the computer.
+   * Example: Here’s a simple function that allows you to writes notes to yourself and other programmers inside the code without confusing the computer.
 * Start with this code 
 
 <h2>Suggestions for What to Do Next</h2>
