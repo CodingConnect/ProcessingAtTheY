@@ -41,12 +41,12 @@
     * Click in the very upper left corner of the screen to go to the menu.
     * Click “Graphic Design”.
     * Click “Processing”.
-    * When the program opens, type ellipse(10,10,20,10);  and run the program by clicking the play button. A new window should appear and a circle should appear in the upper left corner of that new window. You’ve made your first program in Processing!
+    * When the program opens, type <a href="https://processing.org/reference/ellipse_.html">ellipse(10,10,20,10);</a>  and run the program by clicking the play button. A new window should appear and a circle should appear in the upper left corner of that new window. You’ve made your first program in Processing!
   * On Raspberry Pi:
     * Click “Menu”
     * Click “Programming”
     * Click “Processing”
-    * When application opens, type:  rect(10,10,30,10);  and run the program by clicking the the play button. A new window should appear and a circle should appear in the upper left corner of that new window. You’ve made your first program in Processing!
+    * When application opens, type:  <a href="https://processing.org/reference/rect_.html">rect(10,10,30,10);</a>  and run the program by clicking the the play button. A new window should appear and a circle should appear in the upper left corner of that new window. You’ve made your first program in Processing!
 
 <h2>Learn the Basics</h2>
 Do <a href="http://hello.processing.org/">this one-hour tutorial</a>
@@ -57,7 +57,7 @@ Do <a href="http://hello.processing.org/">this one-hour tutorial</a>
 
 <h2>Make Your First Piece of Art by Coding</h2>
 * Make a piece of art to share with the group. 
- * To save your work: If you add the code below inside the draw () {      }  section of your code, your program will save an image file every time you press “S” or “s”. This is one way to save images that you could then print out and do anything with: hang up at the Y, display at the gallery show you all have coming up, or frame and sell.
+ * To save your work: If you add the code below inside the <a href="https://processing.org/reference/draw_.html">draw () {      }</a>  section of your code, your program will save an image file every time you press “S” or “s”. This is one way to save images that you could then print out and do anything with: hang up at the Y, display at the gallery show you all have coming up, or frame and sell.
 
 ```
 if ( keyPressed ) {
@@ -94,8 +94,8 @@ Going forward, it’s up to you what you want to learn and what you want to make
  * “Getting Started with Processing” is a good place to start. 
  * If you’re interested in learning more about the Raspberry Pi, check out “Getting Started with the Raspberry Pi.”
 5. Check out the processing.org/examples page to see how different parts of the Processing programming language to make programs. 
-6. Share a Processing program you made with anyone in the world connected to the internet. 
-7. Find out how and where you can print out a piece of art you made in Processing. You may want to use photo paper and a sufficiently large size() so that your image looks smooth when you print it and not blocky and pixelated.
+6. <a href="http://hello.processing.org/gallery/">Share a Processing program you made with anyone in the world connected to the internet.</a>
+7. Find out how and where you can print out a piece of art you made in Processing. You may want to use photo paper and a sufficiently large <a href="https://processing.org/reference/size_.html">size()</a> so that your image looks smooth when you print it and not blocky and pixelated.
 8. Draw out what you envision making on paper, and ask about what you might need to learn to make what you’re thinking about.
 
 # After This Week
